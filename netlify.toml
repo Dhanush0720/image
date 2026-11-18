@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/Shop%20Ready_v2.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/Shop%20Ready_v2"
+  to = "/"
+  status = 301
